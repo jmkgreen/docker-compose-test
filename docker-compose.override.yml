@@ -1,0 +1,4 @@
+version: '2'
+services:
+    extra_hosts:
+      - bar:192.168.0.2
